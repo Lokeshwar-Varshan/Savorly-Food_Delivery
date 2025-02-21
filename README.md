@@ -1,2 +1,2 @@
-# Savorly-Food_Delivery-
+# Savorly-Food_Delivery-Application
 Savorly A Food Delivery Application 
