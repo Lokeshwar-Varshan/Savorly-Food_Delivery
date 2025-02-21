@@ -1,0 +1,11 @@
+ Feature Outlines:
+User Profiles & Order History – Allow users to view their past orders and save favorite dishes.
+Search & Filters – Implement search functionality with filters (e.g., cuisine type, price range, rating).
+Live Order Tracking – Integrate a real-time order status and estimated delivery time.
+Promotions & Discounts – Add discount coupons, referral bonuses, and promotional offers.
+Dark Mode – Implement a dark mode toggle for better UI customization.
+Multi-Payment Integration – Extend payment options with wallets like PayPal, Google Pay, and Apple Pay.
+Admin Dashboard – Build an admin panel to manage restaurants, orders, and users.
+Push Notifications – Notify users about order status updates, offers, and restaurant promotions.
+Ratings & Reviews – Enable customers to rate restaurants and leave reviews.
+Multi-Language Support – Include multiple language options for a broader user base.
